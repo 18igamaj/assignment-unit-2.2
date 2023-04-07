@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We make a variable called name and set it to 'Dane'
+// If the input string is 'Mary' than it will console.log 'Hi Mary"
+// Else the input string will console.log 'How do you do' if it isnt Mary
 //
 
 //CODE
@@ -45,7 +45,7 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
+// We make an undefind 
 // 
 // 
 //
