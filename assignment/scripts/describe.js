@@ -45,9 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We make an undefind 
-// 
-// 
+// We make an undefind variable called 'secret' 
+//We make another variable called 'code' and set it to 123 as a number
+// if the input is code equal to '123' and the secret function is 'super' and the code function is the number 2
+// if the input code is greater than '250' and secret equals 'duper' console.log 'secret'
 //
 
 //CODE
@@ -70,10 +71,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make bolean called isStudent and set it to true, we make a variable called age and set it to 34 
+// and another variable called zip and set it to 55407
+// if isStudent is true and the zip is greater than 80000 console.log ' Youre a student on the West Coast'
+// else if isStudent is false and the age is less than 30 console.log 'What are your hobbies'
+// else if isStudent is true console.log 'Welcome to Prime'
+// else console.log 'How about the weather'
 
 //CODE
 /*
@@ -130,7 +133,7 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
+let colorOne = 'blue';
 let colorTwo = 'blue';
 let mix = true;
 
