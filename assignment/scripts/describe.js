@@ -171,6 +171,7 @@ const minAge = 21;
 
 if(minAge <= age) {
   console.log('enter');
+}
 
 */
 
