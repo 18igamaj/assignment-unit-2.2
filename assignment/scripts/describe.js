@@ -27,7 +27,8 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called name and set it to 'Dane'
-// If the input string is 'Mary' than it will console.log 'Hi Mary"
+// We make another variable called 'Mary' declare it to name
+// If the variable is 'Mary' than it will console.log 'Hi Mary"
 // Else the input string will console.log 'How do you do' if it isnt Mary
 //
 
@@ -47,9 +48,10 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 // We make an undefind variable called 'secret' 
 //We make another variable called 'code' and set it to 123 as a number
-// if the input is code and is equal to '123' and the secret function is 'super' and the code function is the number 2
-// if the input code is greater than '250' and secret equals 'duper' console.log 'secret'
-//
+// 'if the 'code' variable is exactly the same as 123. 
+//We set the variable 'secret' to the value 'super' and 'code' is set to 'code' multiplied by 2
+// if the variable is greater than '250' and secret equals 'duper' console.log 'secret'
+// The console.log value will be super.
 
 //CODE
 /*
@@ -77,6 +79,7 @@ console.log(secret)
 // else if isStudent is false and the age is less than 30 than we console.log 'What are your hobbies'
 //  or else if is isStudent is true than we console.log 'Welcome to Prime'
 // else than we console.log 'How about the weather'
+// The console.log should be 'Welcome to Prime'
 
 //CODE
 /*
@@ -150,6 +153,8 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
+
+Everything seems to be correct for question 5.
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
